@@ -33,3 +33,4 @@ Supports multi-GPU training via Distributed Data Parallel (DDP).
 - test macOS metal support
 - add `LinearCooldown` compatible with `WarmupConstant`
 
+Heavily inspired by @Niccolo-Ajroldi
